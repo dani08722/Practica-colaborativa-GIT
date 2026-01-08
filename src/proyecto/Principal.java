@@ -19,6 +19,7 @@ public class Principal {
 		case 0:
 			break;
 		case 1:
+			System.out.println("Buenas tardes caballero");
 			break;
 		case 2:
 			break;
