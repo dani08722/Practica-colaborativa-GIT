@@ -1,5 +1,7 @@
 package proyecto;
 
+import utilidades.Leer;
+
 public class Principal {
 
 	public static void main(String[] args) {
@@ -11,12 +13,24 @@ public class Principal {
 			System.out.println("2. Mostrar información del grupo");
 			System.out.println("3. Mostrar despedida");
 			System.out.println("0. Salir");
-			opcion
+			opcion=Leer.datoInt();
 			
+		switch(opcion) {
+		case 0:
+			break;
+		case 1:
+			break;
+		case 2:
+			break;
+		case 3:
+			break;
+			
+			default:
+				System.out.println("Algo está mal");
+				break;
+		}
 			
 		}while(opcion!=0);
-		
-		
 		
 	}
 
