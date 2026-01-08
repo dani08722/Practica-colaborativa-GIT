@@ -23,6 +23,7 @@ public class Principal {
 		case 2:
 			break;
 		case 3:
+			System.out.println("Que tenga usted un buen dia");
 			break;
 			
 			default:
