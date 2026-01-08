@@ -22,6 +22,7 @@ public class Principal {
 		case 1:
 			break;
 		case 2:
+			System.out.println("Hecho por Daniel Mejias Lora y Jose Manuel Diaz");
 			break;
 		case 3:
 			System.out.println("Que tenga usted un buen dia");
