@@ -17,6 +17,7 @@ public class Principal {
 			
 		switch(opcion) {
 		case 0:
+			System.out.println("Saliendo del programa...");
 			break;
 		case 1:
 			break;
