@@ -20,6 +20,7 @@ public class Principal {
 			System.out.println("Saliendo...");
 			break;
 		case 1:
+			System.out.println("Buenas tardes caballero");
 			break;
 		case 2:
 			break;
