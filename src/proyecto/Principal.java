@@ -17,12 +17,13 @@ public class Principal {
 			
 		switch(opcion) {
 		case 0:
-			System.out.println("Saliendo...");
+			System.out.println("Saliendo del programa...");
 			break;
 		case 1:
 			System.out.println("Buenas tardes caballero");
 			break;
 		case 2:
+			System.out.println("Hecho por Daniel Mejias Lora y Jose Manuel Diaz");
 			break;
 		case 3:
 			System.out.println("Que tenga usted un buen dia");
@@ -32,7 +33,6 @@ public class Principal {
 				System.out.println("Algo esta mal");
 				break;
 		}
-			
 		}while(opcion!=0);
 		
 	}
